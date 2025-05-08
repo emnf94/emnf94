@@ -80,7 +80,7 @@ Summon me for collaborations, party quests, or freelance adventures:
 
 [![Gmail](https://img.shields.io/badge/email-emn.firdaus@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:emn.firdaus@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-firdausnuruddin-black?style=flat&logo=github)](https://github.com/emnf94)
+[![GitHub](https://img.shields.io/badge/GitHub-emnf94-black?style=flat&logo=github)](https://github.com/emnf94)
 
 ---
 
