@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Nuruddin Firdaus 👋</h1>
-<h3 align="center">PHP Web Developer | Laravel & CodeIgniter Enthusiast</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   📍 Purwokerto, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp;
