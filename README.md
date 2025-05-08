@@ -11,7 +11,7 @@
 
 ## 🧾 Character Lore
 
-Greetings, traveler! I am **Muhammad Nuruddin Firdaus**, a seasoned **PHP Mage** with **3+ years** of experience in crafting spells (code) using the sacred scrolls of **Laravel** and **CodeIgniter**. I dwell in the realm of backend logic and database enchantments, forever seeking quests that challenge my wisdom and sharpen my abilities.
+Greetings, traveler! I am Muhammad Nuruddin Firdaus, a seasoned PHP Mage with over 3 years of adventure mastering the arcane arts of frameworks like Laravel, CodeIgniter, and many others. I dwell in the realm of backend sorcery and data enchantments, forever embarking on quests that forge cleaner code, unlock powerful APIs, and strengthen my developer’s craft.
 
 ---
 
