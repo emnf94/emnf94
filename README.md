@@ -1,6 +1,8 @@
 <h1 align="center">🧙‍♂️ Muhammad Nuruddin Firdaus</h1>
 <h3 align="center">Level 3+ PHP Mage | Backend Artisan</h3>
-<h3>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)</h3>
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnf94&layout=compact&langs_count=6&hide=css,scss)
+
 
 <p align="center">
   🏠 Purwokerto, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp;
