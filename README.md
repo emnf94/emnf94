@@ -1,7 +1,7 @@
 <h1 align="center">🧙‍♂️ Muhammad Nuruddin Firdaus</h1>
 <h3 align="center">Level 3+ PHP Mage | Backend Artisan</h3>
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnf94&layout=compact&langs_count=6&hide=css,scss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnf94)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
