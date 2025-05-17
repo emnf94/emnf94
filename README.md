@@ -1,6 +1,8 @@
 <h1 align="center">🧙‍♂️ Muhammad Nuruddin Firdaus</h1>
 <h3 align="center">Level 3+ PHP Mage | Backend Artisan</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   🏠 Purwokerto, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp;
   ✉️ <a href="mailto:emn.firdaus@gmail.com">emn.firdaus@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
