@@ -60,7 +60,6 @@ Greetings, traveler! I am Muhammad Nuruddin Firdaus, a seasoned PHP Mage with ov
 | 🧭 Git               | ★★★★☆       |
 
 
-[![Top Langs]([github-readme-stats.vercel.app/api/top-langs/?username=emnf94)]
 ---
 
 ## 🏰 Training Grounds
